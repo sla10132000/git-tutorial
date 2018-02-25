@@ -1,1 +1,3 @@
 hello git!
+
+git remote add origin https://github.com/https://github.com/sla10132000/-.git/HelloGit.git
